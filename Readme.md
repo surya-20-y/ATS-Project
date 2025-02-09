@@ -194,7 +194,7 @@ This document details the automated workflow for processing candidate resumes th
 
 For queries, suggestions, or contributions, feel free to reach out:
 
-- **Email**: sswaraj169@gmail.com
-- **Linkedin**: https://in.linkedin.com/in/swarajkumarsingh
+- **Email**: venkatsuryayerramsetti20@gmail.com
+  
 
 ### Happy Recruiting!
